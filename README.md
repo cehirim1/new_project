@@ -1,2 +1,2 @@
 # new_project
-My first project
+My first project on version control
